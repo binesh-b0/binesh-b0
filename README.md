@@ -84,6 +84,6 @@ style="width:500px; height:auto;" alt="WakaTime Stats"/></a>
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
   </a>
   
-  ![Animation - 1725776471911](https://github.com/user-attachments/assets/90e5ee2e-1295-43e6-be96-05c38863ded6)
+![Animation - 1725776471911](https://github.com/user-attachments/assets/e24ef4c8-fe0c-4ec2-b011-d1bf741a58ae)
 
 </div>
