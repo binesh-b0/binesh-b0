@@ -30,10 +30,6 @@ I'm a full-stack developer specializing in building scalable web applications wi
 ---
 
 
-#### 🤝 Open to Contributions & Collaborations
-I’m currently looking to contribute to open-source projects, especially in the domains of **web development**, **distributed systems**, and **developer tooling**. Feel free to reach out!
-
-
   <a href="https://www.linkedin.com/in/binesh--babu" target="_blank">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
   </a>
