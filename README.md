@@ -29,9 +29,4 @@ I'm a full-stack developer specializing in building scalable web applications wi
 
 ---
 
-
-  <a href="https://www.linkedin.com/in/binesh--babu" target="_blank">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
-  </a>
-
 ![Animation - 1725776471911](https://github.com/user-attachments/assets/e24ef4c8-fe0c-4ec2-b011-d1bf741a58ae)
